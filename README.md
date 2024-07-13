@@ -1,2 +1,3 @@
-# DEVOPS
-it is created for practical purpose
+# DevOps
+### This repository contains the documents related to DevOps Complete Course. 
+
